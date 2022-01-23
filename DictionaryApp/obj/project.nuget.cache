@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hsB32YLEGbrQDiEn3kOhqK+9ACflOfvLbJ40BKddfBnjSBswvTsq2sxkHDhsprHc5SX1Uh7CAQyKgW1jaqNJxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\v-apopov\\Desktop\\Learning\\DictionaryApp\\DictionaryApp\\DictionaryApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v-apopov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

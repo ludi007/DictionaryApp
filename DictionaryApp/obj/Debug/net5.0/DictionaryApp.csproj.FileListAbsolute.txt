@@ -1,0 +1,16 @@
+C:\Users\v-apopov\Desktop\Learning\DictionaryApp\DictionaryApp\bin\Debug\net5.0\DictionaryApp.exe
+C:\Users\v-apopov\Desktop\Learning\DictionaryApp\DictionaryApp\bin\Debug\net5.0\DictionaryApp.deps.json
+C:\Users\v-apopov\Desktop\Learning\DictionaryApp\DictionaryApp\bin\Debug\net5.0\DictionaryApp.runtimeconfig.json
+C:\Users\v-apopov\Desktop\Learning\DictionaryApp\DictionaryApp\bin\Debug\net5.0\DictionaryApp.runtimeconfig.dev.json
+C:\Users\v-apopov\Desktop\Learning\DictionaryApp\DictionaryApp\bin\Debug\net5.0\DictionaryApp.dll
+C:\Users\v-apopov\Desktop\Learning\DictionaryApp\DictionaryApp\bin\Debug\net5.0\ref\DictionaryApp.dll
+C:\Users\v-apopov\Desktop\Learning\DictionaryApp\DictionaryApp\bin\Debug\net5.0\DictionaryApp.pdb
+C:\Users\v-apopov\Desktop\Learning\DictionaryApp\DictionaryApp\obj\Debug\net5.0\DictionaryApp.csproj.AssemblyReference.cache
+C:\Users\v-apopov\Desktop\Learning\DictionaryApp\DictionaryApp\obj\Debug\net5.0\DictionaryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-apopov\Desktop\Learning\DictionaryApp\DictionaryApp\obj\Debug\net5.0\DictionaryApp.AssemblyInfoInputs.cache
+C:\Users\v-apopov\Desktop\Learning\DictionaryApp\DictionaryApp\obj\Debug\net5.0\DictionaryApp.AssemblyInfo.cs
+C:\Users\v-apopov\Desktop\Learning\DictionaryApp\DictionaryApp\obj\Debug\net5.0\DictionaryApp.csproj.CoreCompileInputs.cache
+C:\Users\v-apopov\Desktop\Learning\DictionaryApp\DictionaryApp\obj\Debug\net5.0\DictionaryApp.dll
+C:\Users\v-apopov\Desktop\Learning\DictionaryApp\DictionaryApp\obj\Debug\net5.0\ref\DictionaryApp.dll
+C:\Users\v-apopov\Desktop\Learning\DictionaryApp\DictionaryApp\obj\Debug\net5.0\DictionaryApp.pdb
+C:\Users\v-apopov\Desktop\Learning\DictionaryApp\DictionaryApp\obj\Debug\net5.0\DictionaryApp.genruntimeconfig.cache
